@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> My First Site</title>
+		<style> 
+		h1 {
+		font-family: "serif-sans";
+		font-size: 30px;
+		color: purple
+		}
+		p {
+		font-size: 10px;
+		color: black;
+		}
+		</style>
+	</head>
+	<body>
+	<h1> Welcome to Rebecca's Blog </h1>
+	<div>
+	</body>
+	<html> 
