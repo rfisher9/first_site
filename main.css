@@ -1,0 +1,9 @@
+body {
+	background-image: url("images/swing.jpg");
+	background-size:cover;
+	background-attachment:fixed;
+}
+h1 {
+	font-family: sans-serif;
+	font-size: 60px;
+}
